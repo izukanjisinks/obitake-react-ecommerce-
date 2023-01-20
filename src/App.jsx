@@ -1,5 +1,8 @@
+import Home from "./pages/Home";
+import MyForm from './pages/MyForm'
+
 const App = () => {
-  return <div>Hello world!</div>;
+  return <Home/>;
 };
 
 export default App;
